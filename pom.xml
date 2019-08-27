@@ -54,7 +54,7 @@
         <mqtt.version>1.2.1</mqtt.version>
         <slf4j.version>1.7.25</slf4j.version>
         <logback.version>1.2.3</logback.version>
-        <jackson.version>2.9.9.2</jackson.version>
+        <jackson.version>[2.9.9.2,)</jackson.version>
     </properties>
 
     <dependencies>
